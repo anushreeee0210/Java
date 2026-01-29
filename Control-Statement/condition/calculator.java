@@ -21,7 +21,7 @@ public class calculator {
                 System.out.println("Result = " + result);
                 break;
 
-            case '-':
+            case 'y':
                 result = num1 - num2;
                 System.out.println("Result = " + result);
                 break;
