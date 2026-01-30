@@ -1,6 +1,7 @@
 public class ArmstrongNumber {
     public static void main(String[] args) {
-        int num = 0210 ;  // Change this number to test
+        int num = 0210 
+        ;  // Change this number to test
         int originalNum = num;
         int sum = 0;
 
